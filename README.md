@@ -108,7 +108,6 @@ Stata / R / SQLite / REST API / Panel Data Models
 - 🌐 [yamazemi.info](https://yamazemi.info)
 
 ---
-### 🧱 GitHub Contribution 3D
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
 
 *“The best way to learn is to build.” – Let's build something together.*
