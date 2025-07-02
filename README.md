@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" title="Tailwind CSS" />
+  <img src="https://tailwindcss.com/favicon.ico" width="35" title="Tailwind CSS" />
   <!-- Remix や shadcn/ui に公式アイコンがないため補足的に記述 -->
 </p>
 <p>
