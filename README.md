@@ -66,10 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI" />
   <img src="https://tailwindcss.com/favicon.ico" width="35" title="Tailwind CSS" />
-  <!-- Remix や shadcn/ui に公式アイコンがないため補足的に記述 -->
+  <img src="https://remix.run/favicon-32x32.png" width="32" title="Remix" />
+  <img src="https://ui.shadcn.com/favicon.ico" width="32" title="shadcn/ui" />
+  <img src="https://microcms.io/favicon.svg" width="30" title="microCMS" />
 </p>
 <p>
-Remix / shadcn/ui / React / Next.js / FastAPI / Tailwind CSS
+Tailwind CSS / Remix / shadcn/ui / React / Next.js / FastAPI / microCMS
 </p>
 
 
@@ -78,10 +80,11 @@ Remix / shadcn/ui / React / Next.js / FastAPI / Tailwind CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" />
-  <!-- microCMSやFAISS, Whisperなどに公式アイコンはないが、補足で記述 -->
+  <img src="https://faiss.ai/favicon.ico" width="32" title="FAISS" />
+  <img src="https://openai.com/favicon.ico" width="32" title="Whisper (OpenAI)" />
 </p>
 <p>
-Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / microCMS / FAISS / Llama.cpp / Whisper
+Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / FAISS / Llama.cpp / Whisper
 </p>
 
 
