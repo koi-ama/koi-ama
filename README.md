@@ -80,11 +80,9 @@ Tailwind CSS / Remix / shadcn/ui / React / Next.js / FastAPI / microCMS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" />
-  <img src="https://faiss.ai/favicon.ico" width="32" title="FAISS" />
-  <img src="https://openai.com/favicon.ico" width="32" title="Whisper (OpenAI)" />
 </p>
 <p>
-Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / FAISS / Llama.cpp / Whisper
+Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / Llama.cpp
 </p>
 
 
