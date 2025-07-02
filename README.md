@@ -59,7 +59,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" title="Postman"/>
 </p>
 
----
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
@@ -73,7 +72,6 @@
 Remix / shadcn/ui / React / Next.js / FastAPI / Tailwind CSS
 </p>
 
----
 
 ### 🔧 Tools & DevOps
 <p align="left">
@@ -86,7 +84,6 @@ Remix / shadcn/ui / React / Next.js / FastAPI / Tailwind CSS
 Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / microCMS / FAISS / Llama.cpp / Whisper
 </p>
 
----
 
 ### 📊 Data & Analysis
 <p>
