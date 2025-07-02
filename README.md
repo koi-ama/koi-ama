@@ -87,6 +87,12 @@ Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / Llama.cpp
 
 
 ### 📊 Data & Analysis
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Stata_Logo.png" width="35" title="Stata" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35" title="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" title="SQLite" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="35" title="REST API" />
+</p>
 <p>
 Stata / R / SQLite / REST API / Panel Data Models
 </p>
