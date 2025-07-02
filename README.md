@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI" />
   <img src="https://tailwindcss.com/favicon.ico" width="35" title="Tailwind CSS" />
-  <img src="https://remix.run/favicon-32x32.png" width="32" title="Remix" />
+  <img src="https://remix.run/favicon-32.png" width="32" title="Remix" />
   <img src="https://ui.shadcn.com/favicon.ico" width="32" title="shadcn/ui" />
   <img src="https://microcms.io/favicon.svg" width="30" title="microCMS" />
 </p>
