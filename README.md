@@ -90,7 +90,6 @@ Docker / GitHub Actions / Vercel / Cloudflare Pages / Google Cloud / Llama.cpp
 <p align="left">
   <img src="https://www.stata.com/favicon.ico" width="35" title="Stata" />
   <img src="https://www.r-project.org/favicon-32x32.png" width="35" title="R" />
-  <img src="https://sqlite.org/favicon.ico" width="35" title="SQLite" />
 </p>
 <p>
 Stata / R / SQLite / REST API / Panel Data Models
