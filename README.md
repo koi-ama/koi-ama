@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there, I'm Koi Ama 👋  
+*Fourth-year commerce student / Engineer-in-training / Data enthusiast*
 
-<!--
-**koi-ama/koi-ama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Commerce & Econometrics @ Keio University  
+- 🧪 Yamamoto Seminar (計量経済学 × 社会現象の因果推論)
+- 💻 42Tokyo student | Experienced in C, Shell scripting, and Linux environments
+- 🔍 Main interests: education, labor economics research
+- 📊 Using Stata, R, and Python for panel data analysis
+- 🌏 Preparing for exchange at University of Hawaiʻi (Fall 2025)
+
+---
+
+## 🚀 Projects & Activities
+
+- 🌐 **yamazemi.info** — Official website for Yamamoto Seminar  
+  ↳ Built using **Next.js + microCMS + Vercel**, designed for incoming students  
+  ↳ Managed content model, dynamic routing, SEO, responsive UI
+
+- 🛠 Building a CMS-like internal blog system using **Remix** + **Tailwind CSS**  
+  ↳ Markdown-driven, auto-generated pages, hosted on Cloudflare Pages  
+
+- 📚 Automating workflow for tutoring schools using CSV × PDF generator apps  
+  ↳ Dockerized development environment with print-ready material output
+
+- 👨‍🏫 Operating a student tutoring matching service (web-based backend/frontend)
+
+-   🧾 **Automated copyright royalty report generation** @ Emole  
+  ↳ Built a serverless workflow using **Google Cloud Run** and **Apps Script**  
+  ↳ Automated Excel/CSV processing with Python scripts  
+  ↳ Improved accuracy and drastically reduced manual reporting time
+
+- 📈 Exploring the impact of cross-shareholding reduction on graduate salaries
+
+---
+
+## 📘 Technical Stack
+
+**Languages:**  
+C / Shell / Python / TypeScript / R / Markdown
+
+**Frameworks & Libraries:**  
+Next.js / Remix / FastAPI / Tailwind CSS / shadcn/ui / React
+
+**Tools & DevOps:**  
+Docker / GitHub Actions / Vercel / Cloudflare Pages / microCMS / FAISS / Llama.cpp / Whisper
+
+**Data & Analysis:**  
+Stata / R / SQLite / REST API / Panel Data Models
+
+---
+
+## ✨ Fun Facts
+
+- 🏊‍♂️ Former member of the university swimming club — contributed to competition and operations automation
+
+---
+
+## 📫 Built
+
+- 🌐 [yamazemi.info](https://yamazemi.info)
+
+---
+*“The best way to learn is to build.” – Let's build something together.*
